@@ -1,0 +1,14 @@
+body {
+  padding: 20px;
+  font-family: sans-serif;
+  line-height: 2;
+  font-size: 20px;
+}
+
+.info {
+  font-size: 14px;
+  border: 1px solid red;
+  padding: 15px;
+  border-radius: 5px;
+  background: rgba(255, 41, 41, 0.25);
+}

@@ -1,0 +1,15 @@
+extends ../_template
+
+block variables
+  - var title = 'Users page'
+
+block content
+  .info
+
+  h1 Users page
+  button.get-users-btn Get users
+  ul.users-list
+
+  input(name="user-id")
+  button.get-user-name-btn Get user name by id
+  .user-name
